@@ -14,6 +14,10 @@ XOR two hexadecimal values.
 
 XOR decrypt for challenge.
 
+# xorCrack.py
+
+XOR one character brute force and detects for words. Requires https://inventwithpython.com/detectEnglish.py and https://inventwithpython.com/dictionary.txt
+
 # TODO
 
 Make them more efficient.
